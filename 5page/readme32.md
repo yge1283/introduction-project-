@@ -13,4 +13,5 @@
 
 ## 7. 좋아하는 예능 : 런닝맨, 개그콘서트 , 꼬꼬무
 ![git](image.png) ![git2](image-1.png) ![git3](image-2.png)  
-[줌으로](../README.md)
+
+[home](../README.md)
