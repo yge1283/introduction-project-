@@ -18,7 +18,8 @@
 
 ## 1. 이름 : 양지은 
 ## 2. 생년월일 : 1999.11.24 
-![Alt text](<비자 사진 - 복사본.jpg>)
+
+<img src="비자 사진 - 복사본.jpg" width="200" height= "200">
 
 [출신대학교](https://www.deu.ac.kr/www)
 
