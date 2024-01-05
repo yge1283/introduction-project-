@@ -5,7 +5,7 @@
 ## MBTI: ISFP
 ## 취미 
 ### 1. 축구
-![Alt text](picture2.jpg)
+![Alt text](picture2.jpg){: width="200" height= "200"}
 
 ### 2. 헬스
 ![Alt text](picture3.jpg)
