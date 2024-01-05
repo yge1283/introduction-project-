@@ -25,3 +25,8 @@
 
 [프로필](2page/jieun.md)
 
+## 4. 이름 : 이정민
+### 생년월일 : 2000년 6월 17일
+<img src="4page/picture1.jpg" width="200" height= "200">
+
+[프로필](4page/min)
