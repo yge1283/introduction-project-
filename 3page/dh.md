@@ -8,9 +8,12 @@
 <img src="picture2.jpg" width="200" height= "200">
 
 ### 2. 헬스
-<img src="picture3.jpg." width="200" height= "200">
+<img src="picture3.jpg" width="200" height= "200">
 
 ## 좋아하는 음식
-<img src="picture4.jpg." width="200" height= "200">
+<img src="picture4.jpg" width="200" height= "200">
 
 ## 2024년 목표
+  
+> 디지털 스마트아카데미를 시작으로 판교에 있는 건실한   IT기업에 벡앤드 개발자로 취업하는 것이 제 목표입니다!!
+
