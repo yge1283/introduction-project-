@@ -12,5 +12,5 @@
 ## 6. 좋아하는 드라마/영화 장르 : 멜로, 로맨스
 
 ## 7. 좋아하는 예능 : 런닝맨, 개그콘서트 , 꼬꼬무
-![git](![Alt text](image.png))  
+![git](image.png) ![git2](image-1.png) ![git3](image-2.png)  
 [줌으로](../README.md)
