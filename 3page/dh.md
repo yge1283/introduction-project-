@@ -5,10 +5,10 @@
 ## MBTI: ISFP
 ## 취미 
 ### 1. 축구
-<img src="C:\projecthome\introduction-project-\3page\picture2.jpg" width="200" height= "200">
+<img src="3page\picture2.jpg" width="200" height= "200">
 
 ### 2. 헬스
-<img src="C:\projecthome\introduction-project-\3page\picture2.jpg" width="200" height= "200">
+<img src="C:\projecthome\introduction-project-\3page\picture3.jpg" width="200" height= "200">
 
 ## 좋아하는 음식
 ![Alt text](picture4.jpg)
