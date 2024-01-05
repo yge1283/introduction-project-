@@ -8,7 +8,7 @@
 <img src="C:\projecthome\introduction-project-\3page\picture2.jpg" width="200" height= "200">
 
 ### 2. 헬스
-![Alt text](picture3.jpg)
+<img src="C:\projecthome\introduction-project-\3page\picture2.jpg" width="200" height= "200">
 
 ## 좋아하는 음식
 ![Alt text](picture4.jpg)
