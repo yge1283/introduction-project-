@@ -16,5 +16,5 @@ https://www.instagram.com/gusdnr2222
 ## 1. 이름 : 양지은 
 ## 2. 생년월일 : 1999.11.24 
 ![Alt text](<비자 사진 - 복사본.jpg>)
-[프로필](2page/jieunintro.md)
+[프로필](2page/jieun.md)
 
